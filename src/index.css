@@ -1,0 +1,12 @@
+* {
+  font-family: "Comfortaa", cursive;
+  text-decoration: none;
+  color: inherit;
+}
+
+body,
+#root {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: seashell;
+}
